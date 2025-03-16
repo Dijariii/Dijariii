@@ -8,7 +8,7 @@
 ---
 
 ## **🌐 Connect with Me**  
-[![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)  
+[![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dijar.loveable.app)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)  
 
